@@ -50,4 +50,4 @@ text example
 
 *****
 
-![alt text](http://[path/to/img.jpg](https://www.thelabradorsite.com/wp-content/uploads/2017/04/aggressive-puppy-2.jpg) "Title")
+![alt text](aggressive-puppy-2-2331035254) "Title")
