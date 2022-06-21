@@ -50,4 +50,4 @@ text example
 
 *****
 
-![alt text](aggressive-puppy-2-2331035254) "Title")
+![alt text](aggressive-puppy-2-2331035254) Cute puppy)
